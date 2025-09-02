@@ -49,7 +49,8 @@ Sample dataset fields:
 ---
 
 ## 📸 Dashboard Preview  
-<img width="1920" height="1080" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/f12449a1-ecaa-44c0-a261-bf7da038fd52" />
+<img width="684" height="702" alt="Screenshot 2025-09-02 212105" src="https://github.com/user-attachments/assets/95ea06da-b581-4d9d-b78c-e038c9221c03" />
+
 
 
 ---

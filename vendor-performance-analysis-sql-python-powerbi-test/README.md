@@ -158,5 +158,5 @@ python scripts/get_vendor_summary.py
 **Aditya gudure**  
 Data Analyst  
 📧 Email: adityagundure390@gmail.com  
-🔗 [LinkedIn]()  
+🔗 [LinkedIn](https://www.linkedin.com/in/aditya-gundure-b5b969259/)  
 🔗 [Portfolio]()
